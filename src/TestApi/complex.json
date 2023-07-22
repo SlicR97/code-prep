@@ -1,0 +1,69 @@
+[
+  {
+    "Type": 1,
+    "Statistic": {
+      "CurrentValue": 1700,
+      "MaximumValue": 2045, 
+      "Name": "Player Health"
+    }
+  },
+  {
+    "Type": 1,
+    "Statistic": {
+      "CurrentValue": 3520,
+      "MaximumValue": 5000,
+      "Name": "Enemy Health"
+    }
+  },
+  {
+    "Type": 0,
+    "Statistic": {
+      "Value": 120,
+      "Name": "Last Damage Taken"
+    }
+  },
+  {
+    "Type": 0,
+    "Statistic": {
+      "Value": 50000,
+      "Name": "Max Damage Taken"
+    }
+  },
+  {
+    "Type": 0,
+    "Statistic": {
+      "Value": 50120,
+      "Name": "Total Damage Taken"
+    }
+  },
+  {
+    "Type": 0,
+    "Statistic": {
+      "Value": 200,
+      "Name": "Last Damage Done"
+    }
+  },
+  {
+    "Type": 0,
+    "Statistic": {
+      "Value": 400,
+      "Name": "Max Damage Done"
+    }
+  },
+  {
+    "Type": 0,
+    "Statistic": {
+      "Value": 2000,
+      "Name": "Total Damage Done"
+    }
+  },
+  {
+    "Type": 2,
+    "Statistic": {
+      "X": -1566.7635,
+      "Y": 0.10857524,
+      "Z": 1997.6492,
+      "Name": "Coordinates"
+    }
+  }
+]
